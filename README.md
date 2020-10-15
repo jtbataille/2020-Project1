@@ -1,4 +1,5 @@
 ## Dream Dog
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Find your dream dog in your state or discover a surprise dog in your state using the Surprise Me feature.
 
